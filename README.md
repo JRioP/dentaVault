@@ -4,6 +4,9 @@
 ![Language](https://img.shields.io/badge/Language-C%23-239120?style=flat&logo=c-sharp)
 ![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?style=flat&logo=visual-studio)
 ![Status](https://img.shields.io/badge/Status-Performance%20Task%20Project-blue)
+![Database](https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+![License](https://img.shields.io/badge/License-Academic-lightgrey?style=flat)
 
 > **Comprehensive Desktop Dental Clinic Management System**
 
@@ -33,7 +36,7 @@ From secure staff login to detailed patient history logging, DentaVault ensures 
 ### 🏥 For Administration (Dentify)
 | Feature | Description |
 | :--- | :--- |
-| **📋 Patient Management** | centralized hub to capture **Demographics**, **Dates of Birth**, and **Contact Info**. |
+| **📋 Patient Management** | Centralized hub to capture **Demographics**, **Dates of Birth**, and **Contact Info**. |
 | **📍 Address Logging** | Detailed fields for House No, Street, Barangay, City, and Province. |
 | **💊 Prescription Module** | Smart linking of **Medicines** and **Quantities** to specific **Appointments** and **Treatments**. |
 | **💰 Cost Tracking** | Integrated financial fields to track the cost of treatments and issued prescriptions (PHP). |
@@ -84,9 +87,12 @@ This project follows a **Desktop Application** architecture with a local SQL dat
 * .NET Framework
 * SQL Server Management Studio (SSMS)
 
+---
+
 ## 👥 Authors
 
-* **Joshua Alnie Rio** - *Developer*
+* **Joshua Alnie Rio** - *Developer* [![Portfolio](https://img.shields.io/badge/GitHub-JRioP-181717?style=flat&logo=github)](https://github.com/JRioP)
+
 ---
 
 ## 📄 License
